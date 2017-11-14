@@ -1,0 +1,27 @@
+{
+  "name": "backbone-event-bus",
+  "version": "1.0.0",
+  "description": "An ES6 port of backbone's\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C EventBus used in models and stores.",
+  "main": "eventbus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatorroliveira/event-bus.git"
+  },
+  "keywords": [
+    "event",
+    "bus",
+    "backbone"
+  ],
+  "author": "Renato Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renatorroliveira/event-bus/issues"
+  },
+  "homepage": "https://github.com/renatorroliveira/event-bus#readme",
+  "peerDependencies": {
+    "underscore": "^1.8.3"
+  }
+}
